@@ -1,0 +1,45 @@
+.edit-button {
+    background-color: rgb(81, 133, 180);
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Roboto';
+    letter-spacing: 1.3px;
+    color:white;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 15px 50px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.edit-button:hover {
+    border: 1px solid white;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    background-color: rgb(67, 115, 157);
+    transition-delay: 100ms;
+    transition-duration: 500ms;
+}
+
+.delete-button {
+    background-color: rgb(255, 96, 92);
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Roboto';
+    letter-spacing: 1.3px;
+    color:white;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 15px 50px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.delete-button:hover {
+    border: 1px solid white;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    background-color: rgb(243, 69, 66);
+    transition-delay: 100ms;
+    transition-duration: 500ms;
+}
