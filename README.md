@@ -34,6 +34,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+👉🏿<img src='./src/assets/video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- ![Demo](/demo.gif) -->
 
