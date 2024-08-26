@@ -34,8 +34,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-[👉🏿<img src='./src/assets/video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-](https://github.com/sy091316/creatorverse/blob/main/src/assets/video.gif)
+https://github.com/sy091316/creatorverse/blob/main/src/assets/video.gif?raw=true
 
 <!-- ![Demo](/demo.gif) -->
 
