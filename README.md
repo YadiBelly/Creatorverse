@@ -34,8 +34,14 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/c24c81ba67d44607acc518ec8a326b78?sid=9848e0d9-3273-45d4-aba6-380fbfd4c232" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+<div>
+    <a href="https://www.loom.com/share/c24c81ba67d44607acc518ec8a326b78">
+      <p>Library | Loom - 25 August 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/c24c81ba67d44607acc518ec8a326b78">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c24c81ba67d44607acc518ec8a326b78-8bd0dfa1b5b9f44a-full-play.gif">
+    </a>
+  </div>
 <!-- ![Demo](/demo.gif) -->
 
 <!-- Replace this with whatever GIF tool you used! -->
