@@ -33,15 +33,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
-<div>
-    <a href="https://www.loom.com/share/c24c81ba67d44607acc518ec8a326b78">
-      <p>Library | Loom - 25 August 2024 - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/c24c81ba67d44607acc518ec8a326b78">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c24c81ba67d44607acc518ec8a326b78-8bd0dfa1b5b9f44a-full-play.gif">
-    </a>
-  </div>
+Here's a walkthrough of implemented 
+
 <!-- ![Demo](/demo.gif) -->
 
 <!-- Replace this with whatever GIF tool you used! -->
