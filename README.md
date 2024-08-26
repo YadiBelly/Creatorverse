@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-https://github.com/sy091316/creatorverse/blob/main/src/assets/video.gif?raw=true
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/c24c81ba67d44607acc518ec8a326b78?sid=9848e0d9-3273-45d4-aba6-380fbfd4c232" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <!-- ![Demo](/demo.gif) -->
 
